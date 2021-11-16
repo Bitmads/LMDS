@@ -1,5 +1,4 @@
 #ignore data folders for containers
-/services/
 /volumes/
 /backups/
 /media/
@@ -11,6 +10,5 @@
 /TransmissionWathFolder/
 /TVrecordings/
 /vpn/
-docker-compose.yml
 .outofdate
 downloads

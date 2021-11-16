@@ -1,0 +1,10 @@
+portainer
+sonarr
+radarr
+lidarr
+bazarr
+jackett
+plex
+tvheadend
+deluge
+nzbget
